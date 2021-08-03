@@ -1,0 +1,85 @@
+fieldset{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: grey;  
+    border: 0;  
+    height: auto;
+
+}
+.legend{
+    color:white;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+[type="text"]{
+    display: block;
+    width: 60%;
+    height: 25px;
+    margin: auto;
+    margin-top: 5px;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid white;
+    
+}
+[type="number"]{
+    display: block;
+    width: 60%;
+    height: 25px;
+    margin: auto;
+    margin-top: 5px;
+    background: transparent;   
+    border: 0;
+    border-bottom: 1px solid white;
+    
+}  
+[type="email"]{
+    display: block;
+    width: 60%;
+    height: 25px;
+    margin: auto;
+    margin-top: 5px;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid white;
+    
+    
+}
+[type="submit"]{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 0;
+    
+
+}
+.pais{
+    
+    margin-top: 5px;
+}
+label{
+    margin: auto;
+    color: white;
+}
+[type="radio"]{
+    color: white;
+}
+.contradio{
+    background-color: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 5px;
+
+}
+
+
